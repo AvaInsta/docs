@@ -35,16 +35,16 @@ não tivemos dívida por ser a primeira sprint do projeto.
 
 |     *Issue*      | Titulo |    Pontos   |
 |:----------------:|:------:|:-----------:|
-| [#issue_number](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/issue_number) |  |  |
+| [#issue_number](https://github.com/AvaInsta/docs/issues) |  |  |
 
 ## Issues Acrescentadas Durante a Sprint  
 
 |     *Issue*      | Titulo |    Pontos   |
 |:----------------:|:------:|:-----------:|
-| [#issue_number](https://github.com/fga-eps-mds/2020.2-Lend.it/issues/issue_number) |  |  |
+| [#issue_number](https://github.com/AvaInsta/docs/issues) |  |  |
 ***
 
-<div style="text-align: center"> Total de pontos da <i>sprint</i>: 17 </div> <br>
+<div style="text-align: center"> Total de pontos da <i>sprint</i>: ## </div> <br>
 
 <!---Colocar no link abaixo as issues alocadas no milestone da Sprint--->
 > [_Sprint_ _Backlog_](https://github.com/AvaInsta/docs/milestone/2)  
