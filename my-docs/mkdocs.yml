@@ -1,0 +1,6 @@
+site_name: AvaInsta
+theme: 
+  name: material
+nav:
+  - Home: index.md
+  
