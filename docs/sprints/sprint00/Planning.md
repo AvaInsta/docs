@@ -28,7 +28,8 @@ A sprint também deverá servir para iniciar os estudos a cerca da arquitetura q
 | [#4](https://github.com/AvaInsta/docs/issues/4) | Criar folha de estilo  |  | Todo o grupo |
 | [#5](https://github.com/AvaInsta/docs/issues/5) | Criar prototipo de baixa fidelidade  |  | Todo o grupo |
 </div>
-### Dívida
+
+## Dívida
 
 não tivemos dívida por ser a primeira sprint do projeto.
 
