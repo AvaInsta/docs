@@ -3,7 +3,8 @@
 
 | Data  | Versão | Descrição  | Autor |   |
 |---|---|---|---|---|
-| 21/03/2021 | 1.0    | Adicionado template   atualizado            | Felipe Chemont |
+| 19/03/2021 | 1.0    | Criação do template              | Felipe, Deivid, Victor, Luiz |
+| 21/03/2021 | 1.1    | Adicionado template   atualizado            | Felipe Chemont |
 
 <br/> 
 <br/> 
