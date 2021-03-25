@@ -8,6 +8,9 @@ nav:
   - Documentos:
     - Visão do Projeto: Visao_do_projeto.pdf
     - Product BackLog: product-backlog.md
+    - Arquitetura: documento_de_arquitetura.md
+    - Prototipos: 
+      - Baixa Fidelidade: baixa_fidelidade.md
   - Sprints:
     - Sprint00:
       - planning: sprints/sprint00/Planning.md
