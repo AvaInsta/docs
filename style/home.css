@@ -16,9 +16,6 @@
 }
 .md-nav__title{
 	background-color: #202296;
-	padding: 5px;
-	border-radius: 5px;
-	color: seashell;
 }
 .md-footer{
 	background-color: #202296;
@@ -31,6 +28,7 @@ thead{
 
 .fotos_div{
 	display: inline-block;
+	width:50%;
 }
 
 .hover11 span
