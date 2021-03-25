@@ -6,7 +6,7 @@
  Data       | Versão | Modificação           | Autor             
  :--------: | :----: | :-------------------- | :------------
  22/03/2021 | 0.1    | Criação do documento  | Luíz Gustavo      
-
+25/03/2021 | 0.2    |  acrescentando a representação da arquitetura e visão geral  | Felipe Chermont  
 ---
 
 </br>
@@ -21,10 +21,82 @@
 ### &emsp;1.2 Escopo
 
 &emsp;O AvaInsta visa ser uma aplicação web voltada para usuários do aplicatico Instagram, funcionando como sistema de avaliações e recomendações de perfis de venda do mesmo. 
-
-
-
     
+## 2. Representação da Arquitetura
+Representação dos serviços e modelos implementados na aplicação.
+
+### 2.1 Tecnologias
+
+### &emsp;2.1.1 Front End
+
+- BootStrap
+
+O bootstrap é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web que usam majoritariamente HTML, CSS e JavaScript.
+
+A escolha de se utilizar este framework se da por ser um dos projetos mais bem avaliados e utilizados no [GitHub](https://github.com/) e possuir uma documentação ampla, além da facilidade de implementação e utilização.
+
+### &emsp;2.1.2 Back End
+
+- Django
+
+O Django é um framework para desenvolvimento web, escrito em Python que utiliza o padrão model-template-view(MTV).
+
+O Django é ótimo para aplicações menores e que precisam de implementação rápida, como é o caso do AvaInsta. Segue o principio DRY (Don't Repeat Yourself), que busca o melhor aproveitamento do código feito e evita repetições e conta com diversos pacotes prontos para auxiliar e otimizar o desenvolvimento do projeto.
+
+### &emsp;2.1.3 Banco de Dados
+
+- PostgreSQL
+
+É um sistema gerenciador de banco de dados objeto relacional, desenvolvido com código aberto.
+
+O postgreSQL é capaz de lidar desde pequenas a grandes aplicações, estando em desenvolvimento a mais de 30 anos e comportanto quaisquer necessidades que o projeto possa precisar.
+
+
+## 3. Metas e Restrições da Arquitetura
+
+
+## 4. Visão Geral
+
+A visão geral demonstra, através de diagramas, a aplicação e modelo de implementação do AvaInsta, baseado nas tecnologias e frameworks que serão utilizados em seu desenvolvimento.
+
+### &emsp;4.1 Visão de Casos de Uso
+
+A visualização de Casos de Usos mostram as interações entre o sistema e seu ambiente. Descrevendo as principais funcionalidades que o sistema pretende ter. 
+
+Demonstrados através do Diagrama de caso de uso:
+
+![Caso de Uso](imgs/diagramas/caso_de_uso.png)
+
+
+### &emsp;4.1.2 Visão de Implementação
+
+A visualização de implementação contém uma visão geral do modelo de implementação e organização dos pacotes e camadas do projeto.
+
+O projeto segue a arquitetura proposta pelo framework Django, onde cada aplicação do projeto é separada em uma pasta contendo os seguintes arquivos e espeficicações:
+
++ **models.py:** Serve como modelo de classe que será salva no banco de dados
+
++ **urls.py:** Funciona como um endpoint. Usado na conexão da aplicação com os templates desenvolvidos.
+
++ **views.py:** Recebe a requisição Web e retorna uma resposta, sendo ela o conteudo da página.
+
++ **tests.py:** Onde será realizado todos os tipos de testes necessários para o projeto.
+
+Como pode ser visualizado através do Diagrama de pacotes:
+
+
+![Diagrama de pacotes](imgs/diagramas/Diagrama_pacotes.png)
+
+
+### &emsp;4.1.2 Visão de Dados
+
+A visão de dados fornece uma visualização melhor do que será armazenado no banco de dados do projeto.
+Como pode ser observado através do diagrama de classes: 
+
+![Diagrama de Classes](imgs/diagramas/uml.png)
+
+
+
 </br>
 
 ## Referências
