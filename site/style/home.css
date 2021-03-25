@@ -1,29 +1,29 @@
 :root>*{
-	--md-primary-fg-color: #202296; 
-	--md-default-fg-color--lightest: #202296;
-	--md-footer-bg-color: #202296;
-	--md-footer-bg-color--dark: #202296 
+	--md-primary-fg-color: #578DAA; 
+	--md-default-fg-color--lightest: #578DAA;
+	--md-footer-bg-color: #578DAA;
+	--md-footer-bg-color--dark: #578DAA 
 }
 
 .md-header{
-	background-color: #202296;
+	background-color: #578DAA;
 }
 .md-footer-nav{
-	background-color: #202296;
+	background-color: #578DAA;
 }
 .md-footer-meta{
-	background-color: #202296;
+	background-color: #578DAA;
 }
 .md-nav__title{
-	background-color: #202296;
+	background-color: #578DAA;
 }
 .md-footer{
-	background-color: #202296;
+	background-color: #578DAA;
 	color: var(--md-footer-fg-color);
 }
 
 thead{
-	background-color: #202296;
+	background-color: #578DAA;
 }
 
 .fotos_div{
