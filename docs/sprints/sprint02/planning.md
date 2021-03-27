@@ -34,7 +34,7 @@ Não houveram dívidas para esta sprint
 <b>Total: 0</b> 
 
 
-<div style="text-align: center"> Total de pontos da <i>sprint</i>: 17 </div> <br>
+<div style="text-align: center"> Total de pontos da <i>sprint</i>: 29 </div> <br>
 
 <!---Colocar no link abaixo as issues alocadas no milestone da Sprint--->
 > [_Sprint_ _Backlog_](https://github.com/AvaInsta/webApp/milestone/2)  
