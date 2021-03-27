@@ -20,13 +20,16 @@ A sprint também deverá servir para iniciar os estudos a cerca da arquitetura q
 
 <div class="full-width">
 
-|     *Issue*      | Titulo |    Pontos   |     *Assign*     |
-|:----------------:|:------:|:-----------:|:----------------:|
-| [#3](https://github.com/AvaInsta/docs/issues/3) | Estudar arquitetura  |  | Todo o grupo |
-| [#1](https://github.com/AvaInsta/docs/issues/1) | Atualizar o BackLog  |  | Felipe Chermont |
-| [#2](https://github.com/AvaInsta/docs/issues/2) | Estudo de Ferramentas  |  | Todo o grupo |
-| [#4](https://github.com/AvaInsta/docs/issues/4) | Criar folha de estilo  |  | Todo o grupo |
-| [#5](https://github.com/AvaInsta/docs/issues/5) | Criar prototipo de baixa fidelidade  |  | Todo o grupo |
+
+| Issue | Título | Pontuação | Autor(es) |
+|---|---|---|---|
+|[#3](https://github.com/AvaInsta/docs/issues/3)| Estudar arquitetura | 5 | Todo o grupo |
+|[#1](https://github.com/AvaInsta/docs/issues/1) | Atualizar o BackLog | 3 | Felipe Chermont |
+|[#2](https://github.com/AvaInsta/docs/issues/2) | Estudo de Ferramentas | 8 | Todo o grupo |
+|[#4](https://github.com/AvaInsta/docs/issues/4)| Criar folha de estilo | 2 | Todo o grupo |
+|[#5](https://github.com/AvaInsta/docs/issues/5)| Criar prototipo de baixa fidelidade  | 5 | Todo o grupo |
+
+
 </div>
 
 ## Dívida
@@ -45,7 +48,7 @@ não tivemos dívida por ser a primeira sprint do projeto.
 | [#issue_number](https://github.com/AvaInsta/docs/issues) |  |  |
 ***
 
-<div style="text-align: center"> Total de pontos da <i>sprint</i>: ## </div> <br>
+<div style="text-align: center"> Total de pontos da <i>sprint</i>: 23 </div> <br>
 
 <!---Colocar no link abaixo as issues alocadas no milestone da Sprint--->
 > [_Sprint_ _Backlog_](https://github.com/AvaInsta/docs/milestone/2)  

@@ -14,11 +14,12 @@ Sprint dedicada a desenvolver o prototipo de baixa fidelidade para condensação
 
 <div class="full-width">
 
-|     *Issue*      | Titulo |    Pontos   |     *Assign*     |
-|:----------------:|:------:|:-----------:|:----------------:|
-| [#9](https://github.com/AvaInsta/docs/issues/9) | Definir Paleta de cores | 2 |  Felipe, deivid, Luiz, Victor|
-| [#8](https://github.com/AvaInsta/docs/issues/8) | Modelo de arquitetura | 5 |  Felipe, deivid, Luiz, Victor|
-| [#7](https://github.com/AvaInsta/docs/issues/7) | Criar o modelo de classes do projeto | 5 |  Felipe, deivid, Luiz, Victor|
+
+| Issue | Título | Pontuação | Autor(es) |
+|---|---|---|---|
+|[#9](https://github.com/AvaInsta/docs/issues/9)| Definir Paleta de cores | 2 | Felipe, deivid, Luiz, Victor |
+|[#8](https://github.com/AvaInsta/docs/issues/8)| Modelo de arquitetura | 5 | Felipe, deivid, Luiz, Victor |
+|[#7](https://github.com/AvaInsta/docs/issues/7)| Criar o modelo de classes do projeto | 5 | Felipe, deivid, Luiz, Victor |
 
 </div>
 
