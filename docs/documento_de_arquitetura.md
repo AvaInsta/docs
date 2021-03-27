@@ -6,7 +6,8 @@
  Data       | Versão | Modificação           | Autor             
  :--------: | :----: | :-------------------- | :------------
  22/03/2021 | 0.1    | Criação do documento  | Luíz Gustavo      
-25/03/2021 | 0.2    |  acrescentando a representação da arquitetura e visão geral  | Felipe Chermont  
+25/03/2021 | 0.2    |  acrescentando a representação da arquitetura e visão geral  | Felipe Chermont
+27/03/2021 | 0.3    |  Atualizando parte do documento 2, 3.1, 3.2 | Deivid e Victor |
 ---
 
 </br>
@@ -23,7 +24,11 @@
 &emsp;O AvaInsta visa ser uma aplicação web voltada para usuários do aplicatico Instagram, funcionando como sistema de avaliações e recomendações de perfis de venda do mesmo. 
     
 ## 2. Representação da Arquitetura
-Representação dos serviços e modelos implementados na aplicação.
+
+Representação dos serviços e modelos implementados na aplicação. A arquitetura utilizada no projeto será a arquitetura baseada no modelo MVC.
+A aplicação web Avainsta será feita pelo Django, um framework escrito em python. O modelo de arquitetura utilizado dentro do framework Django é o MVT (Model, View e Template), que é derivada do padrão arquitetural MVC (Model, View e Controller). De acordo com o The Django Book, a parte de controller, em Django, é tratada pelo próprio framework. Portanto a View do MVT desempenha um papel próximo, mas não igual ao controller. Em função disso, sempre que for feita uma requisição do front, o django exige que sempre seja devolvido alguma coisa.
+
+![Diagrama de relações](imgs/diagramas/diagrama_relacao.jpg)
 
 ### 2.1 Tecnologias
 
@@ -51,9 +56,25 @@ O Django é ótimo para aplicações menores e que precisam de implementação r
 
 O postgreSQL é capaz de lidar desde pequenas a grandes aplicações, estando em desenvolvimento a mais de 30 anos e comportanto quaisquer necessidades que o projeto possa precisar.
 
+O projeto  utilizará o PostgreSQL como o banco de dados da aplicação Avainsta, por ser simples a utilização e pela segurança.
 
-## 3. Metas e Restrições da Arquitetura
 
+## 3. Metas e Restrições
+
+### &emsp;3.1 Metas
+
+Desenvolver uma aplicação de avaliação web que avalia e recomenda produtos comprados em lojas informais do instagram.
+
+### &emsp;3.2 Restrições
+
+| Requisito | Ferramenta/Solução |
+|---|---|
+|Linguagem| Python 3 |
+|Framework| Django 2 |
+|FrontEnd| BootStrap |
+|Plataforma| Web |
+|Segurança | Provida pelo próprio framework Django |
+|Linguagem Natural |  Lingua Portuguesa |
 
 ## 4. Visão Geral
 
@@ -102,4 +123,5 @@ Como pode ser observado através do diagrama de classes:
 ## Referências
 
 * [Como documentar a Arquitetura de Software](http://www.linhadecodigo.com.br/artigo/3343/como-documentar-a-arquitetura-de-software.aspx)
+* [The Django Book](https://django-book.readthedocs.io/en/latest/)
 ---
