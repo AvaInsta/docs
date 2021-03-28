@@ -6,7 +6,7 @@ Sprint dedicada a iniciar o desenvolvimento do Back-End do aplicativo, criando a
 
 **Início:** 27/03/2021
 
-**Término:** 03/03/2021
+**Término:** 03/04/2021
 
 **Duração:** Sete dias
 
