@@ -12,9 +12,6 @@ Sprint dedicada a iniciar o desenvolvimento do Back-End do aplicativo, criando a
 
 ## Objetivos
 
-<div class="full-width">
-
-
 | Issue | Título | Pontuação | Autor(es) |
 |---|---|---|---|
 |[#17](https://github.com/AvaInsta/docs/issues/17)| Documento da identidade visual do projeto | 8 | [Luiz Gustavo](https://github.com/LuizGustavoFR), [Victor Rayan](https://github.com/victor-rayan) |
@@ -23,7 +20,6 @@ Sprint dedicada a iniciar o desenvolvimento do Back-End do aplicativo, criando a
 |[#22](https://github.com/AvaInsta/webApp/issues/22)| Revisão da arquitetura  | 3 | [Felipe Chermont](https://github.com/chermont04), [Deivid Carvalho](https://github.com/kabalzin), [Luiz Gustavo](https://github.com/LuizGustavoFR), [Victor Rayan](https://github.com/victor-rayan) |
 |[#6](https://github.com/AvaInsta/webApp/issues/6)| Avaliação de produto   | 8 | [Felipe Chermont](https://github.com/chermont04), [Deivid Carvalho](https://github.com/kabalzin) |
 
-</div>
 
 <b>Total de pontos planejados: 29 </b>  
 

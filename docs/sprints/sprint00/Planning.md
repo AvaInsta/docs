@@ -18,8 +18,6 @@ A sprint também deverá servir para iniciar os estudos a cerca da arquitetura q
 
 ## Objetivos
 
-<div class="full-width">
-
 
 | Issue | Título | Pontuação | Autor(es) |
 |---|---|---|---|
@@ -29,8 +27,6 @@ A sprint também deverá servir para iniciar os estudos a cerca da arquitetura q
 |[#4](https://github.com/AvaInsta/docs/issues/4)| Criar folha de estilo | 2 | Todo o grupo |
 |[#5](https://github.com/AvaInsta/docs/issues/5)| Criar prototipo de baixa fidelidade  | 5 | Todo o grupo |
 
-
-</div>
 
 ## Dívida
 
