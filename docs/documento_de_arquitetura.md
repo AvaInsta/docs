@@ -8,6 +8,7 @@
  22/03/2021 | 0.1    | Criação do documento  | Luíz Gustavo      
 25/03/2021 | 0.2    |  acrescentando a representação da arquitetura e visão geral  | Felipe Chermont
 27/03/2021 | 0.3    |  Atualizando parte do documento 2, 3.1, 3.2 | Deivid e Victor |
+30/03/2021 | 0.4    |  Atualizando a visão de Dados e as Referências | Deivid e Victor |
 ---
 
 </br>
@@ -120,8 +121,11 @@ Como pode ser observado através do diagrama de classes:
 
 </br>
 
-## Referências
+## 5. Referências
 
-* [Como documentar a Arquitetura de Software](http://www.linhadecodigo.com.br/artigo/3343/como-documentar-a-arquitetura-de-software.aspx)
-* [The Django Book](https://django-book.readthedocs.io/en/latest/)
+ - Flávio Seccheiri Mariotti "Como documentar a Arquitetura de Software" disponível em: http://www.linhadecodigo.com.br/artigo/3343/como-documentar-a-arquitetura-de-software.aspx. Acesso em 22 março 2021.
+- Matt Behrens, 2012. The Django Book. Disponível em:  https://django-book.readthedocs.io/en/latest/. Acesso em 27 março 2021
+- PostgreSQL: powerful, open source database. 2021 The PostgreSQL Global Development Group Disponível em: https://www.postgresql.org/ . Acesso em 30 março 2021
+- BootStrap: Build fast, responsive sites. Disponível em: https://getbootstrap.com/ . Acesso em 30 março 2021
+- Chris Zwerschke, 2021. Python WebFrameworks Disponível em: https://wiki.python.org/moin/WebFrameworks . Acesso em 30 março 2021.
 ---
