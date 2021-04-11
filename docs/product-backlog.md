@@ -5,6 +5,7 @@
 |---|---|---|---|---|
 | 19/03/2021 | 1.0    | Criação do template              | Felipe, Deivid, Victor, Luiz |
 | 21/03/2021 | 1.1    | Adicionado template   atualizado            | Felipe Chemont |
+| 10/04/2021 | 1.2    | Adicionando US14 e US15 e alterando a formatação| Felipe Chemont |
 
 <br/> 
 <br/> 
