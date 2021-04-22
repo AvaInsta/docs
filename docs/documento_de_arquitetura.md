@@ -9,7 +9,7 @@
 25/03/2021 | 0.2    |  acrescentando a representação da arquitetura e visão geral  | Felipe Chermont
 27/03/2021 | 0.3    |  Atualizando parte do documento 2, 3.1, 3.2 | Deivid e Victor |
 30/03/2021 | 0.4    |  Atualizando a visão de Dados e as Referências | Deivid e Victor |
-22/04/2021 | 0.4    |  Retirando o Visao de casos de Uso| Felipe Chermont |
+22/04/2021 | 1.0    |  Retirando o Visao de casos de Uso| Felipe Chermont |
 ---
 
 </br>
