@@ -9,6 +9,7 @@
 25/03/2021 | 0.2    |  acrescentando a representação da arquitetura e visão geral  | Felipe Chermont
 27/03/2021 | 0.3    |  Atualizando parte do documento 2, 3.1, 3.2 | Deivid e Victor |
 30/03/2021 | 0.4    |  Atualizando a visão de Dados e as Referências | Deivid e Victor |
+22/04/2021 | 0.4    |  Retirando o Visao de casos de Uso| Felipe Chermont |
 ---
 
 </br>
@@ -81,16 +82,8 @@ Desenvolver uma aplicação de avaliação web que avalia e recomenda produtos c
 
 A visão geral demonstra, através de diagramas, a aplicação e modelo de implementação do AvaInsta, baseado nas tecnologias e frameworks que serão utilizados em seu desenvolvimento.
 
-### &emsp;4.1 Visão de Casos de Uso
 
-A visualização de Casos de Usos mostram as interações entre o sistema e seu ambiente. Descrevendo as principais funcionalidades que o sistema pretende ter. 
-
-Demonstrados através do Diagrama de caso de uso:
-
-![Caso de Uso](imgs/diagramas/caso_de_uso.png)
-
-
-### &emsp;4.1.2 Visão de Implementação
+### &emsp;4.1 Visão de Implementação
 
 A visualização de implementação contém uma visão geral do modelo de implementação e organização dos pacotes e camadas do projeto.
 
@@ -110,7 +103,7 @@ Como pode ser visualizado através do Diagrama de pacotes:
 ![Diagrama de pacotes](imgs/diagramas/Diagrama_pacotes.png)
 
 
-### &emsp;4.1.2 Visão de Dados
+### &emsp;4.2 Visão de Dados
 
 A visão de dados fornece uma visualização melhor do que será armazenado no banco de dados do projeto.
 Como pode ser observado através do diagrama de classes: 
