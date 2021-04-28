@@ -23,6 +23,8 @@ nav:
       - planning: sprints/sprint02/planning.md
     - Sprint03:
       - planning: sprints/sprint03/planning.md
+    - Sprint04:
+      - planning: sprints/sprint04/planning.md
 
 
 extra_css:
