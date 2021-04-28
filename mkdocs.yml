@@ -12,7 +12,7 @@ nav:
     - Identidade Visual do produto: 
       - Baixa Fidelidade: baixa_fidelidade.md
       - Identidade Visual: documento_de_identidade_visual.md
-
+    - Estratégia de Testes: estrategia_testes.md
   - Sprints:
     - Sprint00:
       - planning: sprints/sprint00/Planning.md
