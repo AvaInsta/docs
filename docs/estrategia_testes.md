@@ -35,4 +35,4 @@ As principais técnicas estruturais são: Stress, Execução, Recuperação Cont
 
 Já as principais técnicas funcionais são: requisitos, regressão, tratamento de erros, manual, interfaces de integração, controle e paralelismo.
 
-No caso de nossa aplicação, utiliziramos tecnicas de caixa preta, mais especificamente, a técnica de requisitos, para validação dos requisitos funcionais da aplicação.
+No caso de nossa aplicação, utiliziramos tecnicas de caixa branca, mais especificamente, a técnica de requisitos, para validação dos requisitos funcionais da aplicação.
