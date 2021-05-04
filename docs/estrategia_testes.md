@@ -18,8 +18,8 @@ Testes de software podem ser divididos em diversos tipos, de acordo com o objeti
 utilizaremos o tipo de teste funcional para testar as seguintes funcionalidades:
 
 * Registro de usuários
-* Cadastro de avaliações
-* Atualização de avaliações
+#* Cadastro de avaliações
+#* Atualização de avaliações
 
 
 ## 3. Níveis de Teste
