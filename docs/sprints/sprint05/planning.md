@@ -1,8 +1,8 @@
-# Planejamento Sprint 04
+# Planejamento Sprint 05
 
 Finalização do backend e Criação da estratégia de testes. 
 
-## Tamanho da Sprint 04
+## Tamanho da Sprint 05
 
 **Início:** 24/04/2021
 
