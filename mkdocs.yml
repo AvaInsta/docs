@@ -16,7 +16,6 @@ nav:
   - Sprints:
     - Sprint00:
       - planning: sprints/sprint00/Planning.md
-      - Results: sprints/sprint00/Results.md
     - Sprint01:
       - planning: sprints/sprint01/planning.md
     - Sprint02:
@@ -25,6 +24,10 @@ nav:
       - planning: sprints/sprint03/planning.md
     - Sprint04:
       - planning: sprints/sprint04/planning.md
+    - Sprint05:
+      - planning: sprints/sprint05/planning.md
+    - Sprint06:
+      - planning: sprints/sprint06/planning.md
 
 
 extra_css:
